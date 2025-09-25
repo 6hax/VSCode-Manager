@@ -8,7 +8,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/6hax/VSCode-Manager)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/6hax/VSCodeManager)
 
 **Gerencie suas configurações do VSCode de forma fácil e intuitiva!**
 
@@ -42,7 +42,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/6hax/VSCode-Manager.git 
+git clone https://github.com/6hax/VSCodeManager.git 
 
 # Instale as dependências
 npm install
@@ -55,7 +55,7 @@ npm start
 
 ```bash
 # Clone o repositório
-git clone https://github.com/6hax/VSCode-Manager.git
+git clone https://github.com/6hax/VSCodeManager.git
 
 # Instale as dependências
 yarn install
@@ -161,7 +161,7 @@ Contribuições são sempre bem-vindas! Aqui estão algumas formas de contribuir
 
 ### 🐛 Reportar Bugs
 
-1. Abra uma [issue](https://github.com/6hax/VSCode-Manager/issues)
+1. Abra uma [issue](https://github.com/6hax/VSCodeManager/issues)
 2. Inclua informações detalhadas sobre o problema
 
 
