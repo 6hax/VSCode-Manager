@@ -1,4 +1,4 @@
-# 🚀 VSCode Settings Manager
+# VSCode Settings Manager
 
 <div align="center">
 
