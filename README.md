@@ -126,26 +126,6 @@ fetch('/api/settings/apply/My%20Config', {
 });
 ```
 
-## 🎨 Personalização
-
-### Temas e Cores
-
-O projeto usa Tailwind CSS para estilização. Você pode personalizar as cores editando o arquivo `tailwind.config.js`:
-
-```javascript
-module.exports = {
-  content: ["./public/**/*.{html,js}"],
-  theme: {
-    extend: {
-      colors: {
-        'custom-pink': '#ec4899',
-        'custom-gray': '#1f2937'
-      }
-    },
-  },
-  plugins: [],
-}
-```
 
 ### Configurações do VSCode
 
@@ -185,3 +165,4 @@ Contribuições são sempre bem-vindas! Aqui estão algumas formas de contribuir
 
 **hax**
 - GitHub: [@6hax](https://github.com/6hax)
+
